@@ -1,6 +1,6 @@
 # conda-install-bears
 
-This is a prototype to install coala bears in all the platforms using conda as the package manager.
+This is a prototype to install coala bears in all the platforms using conda as the package manager. Here, I try and install dartsdk which has dartanalyzer (a dependency required for dartLint bear).
 
 ## Sources and further discussion
 
